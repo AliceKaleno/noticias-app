@@ -1,32 +1,50 @@
 [
   {
+    "id": 1,
     "title": "Belém, Ananindeua e Marituba (PA) realizarão a prova do Enem no próximo domingo",
+    "description": "As cidades do Pará se preparam para aplicar a prova do ENEM com novas medidas de organização.",
+    "source": "gov.br/inep",
     "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/belem-ananindeua-e-marituba-pa-realizarao-a-prova-do-enem-no-proximo-domingo-dia-30-11",
-    "source": "gov.br/inep"
+    "image": "imag1.png"
   },
   {
+    "id": 2,
     "title": "Nova crise do Enem expõe problema crônico na produção de questões",
+    "description": "Um relatório aponta falhas históricas na elaboração de questões para o exame nacional.",
+    "source": "Folha de S.Paulo",
     "url": "https://www1.folha.uol.com.br/educacao/2025/11/nova-crise-do-enem-expoe-problema-cronico-na-producao-de-questoes.shtml",
-    "source": "Folha de S.Paulo"
+    "image": "imag2.png"
   },
   {
+    "id": 3,
     "title": "Notícias gerais sobre o ENEM — CNN Brasil",
+    "description": "A CNN Brasil atualiza em tempo real todas as novidades relacionadas ao ENEM.",
+    "source": "CNN Brasil",
     "url": "https://www.cnnbrasil.com.br/tudo-sobre/enem/",
-    "source": "CNN Brasil"
+    "image": "imag3.png"
   },
   {
+    "id": 4,
     "title": "Últimas notícias de Educação — ENEM",
+    "description": "Veja as principais notícias e atualizações sobre o ENEM no portal G1.",
+    "source": "G1",
     "url": "https://g1.globo.com/educacao/",
-    "source": "G1"
+    "image": "imag4.png"
   },
   {
-    "title": "Presidente do Inep diz que memorização de questões do Enem não altera nenhum resultado",
+    "id": 5,
+    "title": "Presidente do Inep diz que memorização de questões não altera nenhum resultado",
+    "description": "Declaração ocorre após novas polêmicas envolvendo o exame.",
+    "source": "Notícias ao Minuto",
     "url": "https://www.noticiasaominuto.com.br/brasil/2336200/presidente-do-inep-diz-que-memorizacao-de-questoes-do-enem-nao-altera-nenhum-resultado",
-    "source": "Notícias ao Minuto"
+    "image": "imag5.png"
   },
   {
+    "id": 6,
     "title": "Enem 2025 quase triplica número de participantes com 60 anos ou mais",
+    "description": "Participação de idosos cresce expressivamente nesta edição do Enem.",
+    "source": "Agência Brasil",
     "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2025-11/enem-2025-quase-triplica-numero-de-participantes-com-60-anos-ou-mais",
-    "source": "Agência Brasil"
+    "image": "imag6.png"
   }
 ]
