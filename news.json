@@ -5,7 +5,7 @@
     "description": "As cidades do Pará se preparam para aplicar a prova do ENEM com novas medidas de organização.",
     "source": "gov.br/inep",
     "url": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/belem-ananindeua-e-marituba-pa-realizarao-a-prova-do-enem-no-proximo-domingo-dia-30-11",
-    "image": "imag1.png"
+    "image": "https://raw.githubusercontent.com/AliceKaleno/noticias-app/main/imag1.png"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "description": "Um relatório aponta falhas históricas na elaboração de questões para o exame nacional.",
     "source": "Folha de S.Paulo",
     "url": "https://www1.folha.uol.com.br/educacao/2025/11/nova-crise-do-enem-expoe-problema-cronico-na-producao-de-questoes.shtml",
-    "image": "imag2.png"
+    "image": "https://raw.githubusercontent.com/AliceKaleno/noticias-app/main/imag2.png"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "description": "A CNN Brasil atualiza em tempo real todas as novidades relacionadas ao ENEM.",
     "source": "CNN Brasil",
     "url": "https://www.cnnbrasil.com.br/tudo-sobre/enem/",
-    "image": "imag3.png"
+    "image": "https://raw.githubusercontent.com/AliceKaleno/noticias-app/main/imag3.png"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "description": "Veja as principais notícias e atualizações sobre o ENEM no portal G1.",
     "source": "G1",
     "url": "https://g1.globo.com/educacao/",
-    "image": "imag4.png"
+    "image": "https://raw.githubusercontent.com/AliceKaleno/noticias-app/main/imag4.png"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "description": "Declaração ocorre após novas polêmicas envolvendo o exame.",
     "source": "Notícias ao Minuto",
     "url": "https://www.noticiasaominuto.com.br/brasil/2336200/presidente-do-inep-diz-que-memorizacao-de-questoes-do-enem-nao-altera-nenhum-resultado",
-    "image": "imag5.png"
+    "image": "https://raw.githubusercontent.com/AliceKaleno/noticias-app/main/imag5.png"
   },
   {
     "id": 6,
@@ -45,6 +45,6 @@
     "description": "Participação de idosos cresce expressivamente nesta edição do Enem.",
     "source": "Agência Brasil",
     "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2025-11/enem-2025-quase-triplica-numero-de-participantes-com-60-anos-ou-mais",
-    "image": "imag6.png"
+    "image": "https://raw.githubusercontent.com/AliceKaleno/noticias-app/main/imag6.png"
   }
 ]
